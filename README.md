@@ -35,7 +35,6 @@ It is ideal for students, researchers, and professionals looking for accurate an
 - Graph-based analysis  
 - Simulation outputs included  
 
-(Add screenshots here)
 
 ---
 
